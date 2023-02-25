@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://deven367.github.io',
                 'git_url': 'https://github.com/deven367/nbdev-oauth/',
                 'lib_path': 'nbdev_oauth'},
-  'syms': {'nbdev_oauth.core': {'nbdev_oauth.core.foo': ('core.html#foo', 'nbdev_oauth/core.py')}}}
+  'syms': { 'nbdev_oauth.core': { 'nbdev_oauth.core.foo': ('core.html#foo', 'nbdev_oauth/core.py'),
+                                  'nbdev_oauth.core.moo': ('core.html#moo', 'nbdev_oauth/core.py')}}}
