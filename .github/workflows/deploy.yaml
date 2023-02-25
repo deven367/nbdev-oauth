@@ -15,3 +15,4 @@ jobs:
       - uses: deven367/workflows/quarto-ghp@master
         with:
           orphan: false
+          keep_files: true
