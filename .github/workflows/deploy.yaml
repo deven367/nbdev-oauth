@@ -12,6 +12,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: fastai/workflows/quarto-ghp@master
+      - uses: deven367/workflows/quarto-ghp@master
         with:
-          force_orphan: false
+          orphan: false
