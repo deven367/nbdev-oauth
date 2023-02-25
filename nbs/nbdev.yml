@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-oauth"
+  site-url: "https://deven367.github.io/nbdev-oauth/"
+  description: "test nbdev with oauth"
+  repo-branch: master
+  repo-url: "https://github.com/deven367/nbdev-oauth/"
