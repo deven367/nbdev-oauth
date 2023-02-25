@@ -1,1 +1,1 @@
-Sitemap: https://deven367.github.io/nbdev-oauth/sitemap.xml
+Sitemap: https://deven367.github.io/nbdev_oauth/sitemap.xml

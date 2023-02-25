@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "{{repo}}",
+    "title": "nbdev-oauth",
     "section": "",
     "text": "This file will become your README and also the index of your documentation."
   },
   {
     "objectID": "index.html#install",
     "href": "index.html#install",
-    "title": "{{repo}}",
+    "title": "nbdev-oauth",
     "section": "Install",
-    "text": "Install\npip install {{lib_path}}"
+    "text": "Install\npip install nbdev-oauth"
   },
   {
     "objectID": "index.html#how-to-use",
     "href": "index.html#how-to-use",
-    "title": "{{repo}}",
+    "title": "nbdev-oauth",
     "section": "How to use",
     "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
   },
@@ -25,6 +25,6 @@
     "href": "core.html",
     "title": "core",
     "section": "",
-    "text": "foo\n\n foo ()"
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nmoo\n\n moo ()"
   }
 ]
