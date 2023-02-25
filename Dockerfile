@@ -1,7 +1,7 @@
 FROM quay.io/oauth2-proxy/oauth2-proxy
 
 COPY email_list.txt /site_config/
-COPY _site /app/
+COPY _docs /app/
 
 ENTRYPOINT ["/bin/oauth2-proxy", \
             "--provider", "github", \
