@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "core.html",
-    "href": "core.html",
-    "title": "core",
-    "section": "",
-    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nmoo\n\n moo ()\n\n\nsource\n\n\nzoo\n\n zoo ()"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "nbdev-oauth",
@@ -26,5 +19,12 @@
     "title": "nbdev-oauth",
     "section": "How to use",
     "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2\n\n\n\n2+2\n\n4"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nmoo\n\n moo ()\n\n\nsource\n\n\nzoo\n\n zoo ()"
   }
 ]
