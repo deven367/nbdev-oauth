@@ -10,4 +10,4 @@ def foo(): pass
 def moo(): pass
 
 # %% ../nbs/00_core.ipynb 5
-def zoo(): pass
+def zoo(): return 'this is the zoo function'
